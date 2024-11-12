@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
     
-    cout << hex << 0x8a1 << dec << endl;
+    cout << hex << 0x
 
 }
  
